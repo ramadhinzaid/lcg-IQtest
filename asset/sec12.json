@@ -1,0 +1,278 @@
+[
+    {
+        "1":"asset/jadi/Soal71.png",
+	    "2":"Apakah lawan kata dari MONOTON?",
+	    "3":"Pak Bimo memesan 15 paket barang kepada Pak Yanto dan minta diantarkan. Bila dalam sekali jalan Pak Yanto dapat mengantarkan 4 paket barang, berapa kali Pak Yanto harus bolak-balik ke tempat Pak Bimo untuk mengantarkan seluruh pesanannya?",
+	    "4":"asset/jadi/Soal74.png",
+	    "5":"asset/jadi/Soal75.png",
+	    "6":"asset/jadi/Soal76.png",
+	    "7":"asset/jadi/Soal77.png",
+	    "8":"Kata apakah dibawah ini yang maknanya sama dengan kata ANULIR?",
+	    "9":"asset/jadi/Soal79.png",
+	    "10":"asset/jadi/Soal80.png",
+        "11":"asset/jadi/Soal81.png",
+	    "12":"asset/jadi/Soal82.png",
+	    "13":"Manakah yang berbeda dari yang lainnya?",
+	    "14":"asset/jadi/Soal84.png",
+	    "15":"asset/jadi/Soal85.png",
+	    "16": "asset/jadi/Soal41.png",
+        "17": "asset/jadi/Soal42.png",
+        "18": "Kata apakah di bawah ini yang maknanya sama dengan kata LEGALITAS",
+        "19": "asset/jadi/Soal44.png",
+        "20": "asset/jadi/Soal45.png",
+        "21": "Apakah lawan kata dari APRIORI?",
+        "22": "Seorang anak yang tingginya 150 cm difoto dalam ukuran kecil dengan skala 1:30. Kemudian, ukuran foto tersebut diperbesar dengan skala 4:1. Maka, tinggi anak dalam foto terakhir adalah....",
+        "23": "asset/jadi/Soal48.png",
+        "24": "asset/jadi/Soal49.png",
+        "25": "asset/jadi/Soal50.png",
+        "26": "asset/jadi/Soal51.png",
+        "27": "asset/jadi/Soal52.png",
+        "28": "asset/jadi/Soal53.png",
+        "29": "asset/jadi/Soal54.png",
+        "30": "asset/jadi/Soal55.png"
+    },
+    {
+        "1": {
+            "a":"asset/jadi/71A.png",
+            "b":"asset/jadi/71B.png",
+            "c":"asset/jadi/71C.png",
+            "d":"asset/jadi/71D.png",
+            "e":"asset/jadi/71E.png"
+        },
+        "2": {
+            "a":"turunan",
+            "b":"terus-menerus",
+            "c":"dinamis",
+            "d":"dramatis",
+            "e":"berselang-seling"
+        },
+        "3": {
+            "a":"2 3/4",
+            "b":"3",
+            "c":"3 3/4",
+            "d":"4",
+            "e":"5"
+        },
+        "4": {
+            "a":"asset/jadi/74A.png",
+            "b":"asset/jadi/74B.png",
+            "c":"asset/jadi/74C.png",
+            "d":"asset/jadi/74D.png",
+            "e":"asset/jadi/74E.png"
+        },
+        "5": {
+            "a":"50",
+            "b":"93",
+            "c":"28",
+            "d":"74",
+            "e":"41"
+        },
+        "6": {
+            "a":"9",
+            "b":"10",
+            "c":"11",
+            "d":"12",
+            "e":"13"
+        },
+        "7": {
+            "a":"asset/jadi/77A.png",
+            "b":"asset/jadi/77B.png",
+            "c":"asset/jadi/77C.png",
+            "d":"asset/jadi/77D.png",
+            "e":"asset/jadi/77E.png"
+        },
+        "8": {
+            "a":"pemberatan",
+            "b":"abolisi",
+            "c":"regresi",
+            "d":"penambahan",
+            "e":"analisis"
+        },
+        "9": {
+            "a":"17",
+            "b":"10",
+            "c":"13",
+            "d":"6",
+            "e":"9"
+        },
+        "10": {
+            "a":"asset/jadi/80A.png",
+            "b":"asset/jadi/80B.png",
+            "c":"asset/jadi/80C.png",
+            "d":"asset/jadi/80D.png",
+            "e":"asset/jadi/80E.png"
+        },
+        "11": {
+            "a":"asset/jadi/81A.png",
+            "b":"asset/jadi/81B.png",
+            "c":"asset/jadi/81C.png",
+            "d":"asset/jadi/81D.png",
+            "e":"asset/jadi/81E.png"
+        },
+        "12": {
+            "a":"9",
+            "b":"2",
+            "c":"11",
+            "d":"5",
+            "e":"7"
+        },
+        "13": {
+            "a":"asset/jadi/83A.png",
+            "b":"asset/jadi/83B.png",
+            "c":"asset/jadi/83C.png",
+            "d":"asset/jadi/83D.png",
+            "e":"asset/jadi/83E.png"
+        },
+        "14": {
+            "a":"asset/jadi/84A.png",
+            "b":"asset/jadi/84B.png",
+            "c":"asset/jadi/84C.png",
+            "d":"asset/jadi/84D.png",
+            "e":"asset/jadi/84E.png"
+        },
+        "15": {
+            "a":"asset/jadi/85A.png",
+            "b":"asset/jadi/85B.png",
+            "c":"asset/jadi/85C.png",
+            "d":"asset/jadi/85D.png",
+            "e":"asset/jadi/85E.png"
+        },
+        "16": {
+            "a":"6",
+            "b":"4",
+            "c":"3",
+            "d":"5",
+            "e":"7"
+        },
+        "17": {
+            "a":"10",
+            "b":"12",
+            "c":"5",
+            "d":"8",
+            "e":"2"
+        },
+        "18": {
+            "a":"keabsahan",
+            "b":"masalah hukum",
+            "c":"tanda setuju",
+            "d":"tidak sah",
+            "e":"persetujuan"
+        },
+        "19": {
+            "a":"asset/jadi/44A.png",
+            "b":"asset/jadi/44B.png",
+            "c":"asset/jadi/44C.png",
+            "d":"asset/jadi/44D.png",
+            "e":"asset/jadi/44E.png"
+        },
+        "20": {
+            "a":"asset/jadi/45A.png",
+            "b":"asset/jadi/45B.png",
+            "c":"asset/jadi/45C.png",
+            "d":"asset/jadi/45D.png",
+            "e":"asset/jadi/45E.png"
+        },
+        "21": {
+            "a":"unggulan",
+            "b":"tidak istimewa",
+            "c":"proporsi",
+            "d":"aposteriori",
+            "e":"prioritas"
+        },
+        "22": {
+            "a":"18 cm",
+            "b":"20 cm",
+            "c":"35 cm",
+            "d":"40 cm",
+            "e":"100 cm"
+        },
+        "23": {
+            "a":"1",
+            "b":"8",
+            "c":"6",
+            "d":"7",
+            "e":"0"
+        },
+        "24": {
+            "a":"asset/jadi/49A.png",
+            "b":"asset/jadi/49B.png",
+            "c":"asset/jadi/49C.png",
+            "d":"asset/jadi/49D.png",
+            "e":"asset/jadi/49E.png"
+        },
+        "25": {
+            "a":"10",
+            "b":"9",
+            "c":"8",
+            "d":"7",
+            "e":"6"
+        },   
+        "26": {
+            "a":"asset/jadi/51A.png",
+            "b":"asset/jadi/51B.png",
+            "c":"asset/jadi/51C.png",
+            "d":"asset/jadi/51D.png",
+            "e":"asset/jadi/51E.png"
+        },
+        "27": {
+            "a":"asset/jadi/52A.png",
+            "b":"asset/jadi/52B.png",
+            "c":"asset/jadi/52C.png",
+            "d":"asset/jadi/52D.png",
+            "e":"asset/jadi/52E.png"
+        },
+        "28": {
+            "a":"asset/jadi/53A.png",
+            "b":"asset/jadi/53B.png",
+            "c":"asset/jadi/53C.png",
+            "d":"asset/jadi/53D.png",
+            "e":"asset/jadi/53E.png"
+        },
+        "29": {
+            "a":"12",
+            "b":"19",
+            "c":"9",
+            "d":"4",
+            "e":"6"
+        }, 
+        "30": {
+            "a":"asset/jadi/55A.png",
+            "b":"asset/jadi/55B.png",
+            "c":"asset/jadi/55C.png",
+            "d":"asset/jadi/55D.png",
+            "e":"asset/jadi/55E.png"
+        }
+    },
+    {
+        "1":"asset/jadi/71B.png",
+        "2":"berselang-seling",
+        "3":"4",
+        "4":"asset/jadi/74A.png",
+        "5":"74",
+        "6":"13",
+        "7":"asset/jadi/77D.png",
+        "8":"abolisi",
+        "9":"17",
+        "10":"asset/jadi/80D.png",
+        "11":"asset/jadi/81C.png",
+        "12":"2",
+        "13":"asset/jadi/83C.png",
+        "14":"asset/jadi/84E.png",
+        "15":"asset/jadi/85C.png",
+        "16": "6",
+        "17": "5",
+        "18": "keabsahan",
+        "19": "asset/jadi/44A.png",
+        "20": "asset/jadi/45C.png",
+        "21": "aposteriori",
+        "22": "20 cm",
+        "23": "6",
+        "24": "asset/jadi/49A.png",
+        "25": "6",
+        "26": "asset/jadi/51E.png",
+        "27": "asset/jadi/52B.png",
+        "28": "asset/jadi/53B.png",
+        "29": "9",
+        "30": "asset/jadi/55E.png"
+    }
+]

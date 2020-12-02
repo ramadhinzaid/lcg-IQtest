@@ -1,0 +1,278 @@
+[
+    {
+        "1": "asset/jadi/Soal251.png",
+        "2": "asset/jadi/Soal252.png",
+        "3": "Kata apakah di bawah ini yang maknanya sama dengan kata MISTIFIKASI?",
+        "4": "Carilah kata berikut yang tidak termasuk kelompoknya!",
+        "5": "Manakah yang berbeda dari yang lainnya?",
+        "6": "Apakah lawan kata dari PROMINEN",
+        "7": "asset/jadi/Soal257.png",
+        "8": "asset/jadi/Soal258.png",
+        "9": "asset/jadi/Soal259.png",
+        "10": "asset/jadi/Soal260.png",
+        "11": "Apakah lawan kata dari RETRO",
+        "12": "Perjalanan berhubungan dengan ..., sebagaimana ... berhubungan dengan keputusan",
+        "13": "asset/jadi/Soal263.png",
+        "14": "asset/jadi/Soal264.png",
+        "15": "asset/jadi/Soal265.png",
+        "16": "Seorang siswa telah mengikuti tes sebanyak n kali dan memperoleh nilai rata-rata 80. Berapakah nilai yang harus diperoleh siswa tersebut pada tes selanjutnya supaya rata-ratanya menjadi 82?",
+        "17": "asset/jadi/Soal267.png",
+        "18": "asset/jadi/Soal268.png",
+        "19": "asset/jadi/Soal269.png",
+        "20": "asset/jadi/Soal270.png",
+        "21": "asset/jadi/Soal271.png",
+        "22": "asset/jadi/Soal272.png",
+        "23": "Manakah yang berbeda dari yang lainnya?",
+        "24": "asset/jadi/Soal274.png",
+        "25": "asset/jadi/Soal275.png",
+        "26": "asset/jadi/Soal276.png",
+        "27": "asset/jadi/Soal277.png",
+        "28": "asset/jadi/Soal278.png",
+        "29": "asset/jadi/Soal279.png",
+        "30": "asset/jadi/Soal280.png"
+    },
+    {
+        "1": {
+            "a":"asset/jadi/251A.png",
+            "b":"asset/jadi/251B.png",
+            "c":"asset/jadi/251C.png",
+            "d":"asset/jadi/251D.png",
+            "e":"asset/jadi/251E.png"
+        },
+        "2": {
+            "a":"7 dan 22",
+            "b":"15 dan 23",
+            "c":"23 dan 15",
+            "d":"22 dan 7",
+            "e":"26 dan 7"
+        },
+        "3": {
+            "a":"pengeboran",
+            "b":"pelubangan",
+            "c":"pengampunan",
+            "d":"pengecohan",
+            "e":"pelambangan"
+        },
+        "4": {
+            "a":"perseteruan",
+            "b":"pertengkaran",
+            "c":"pertikaian",
+            "d":"penyelarasan",
+            "e":"persaingan"
+        },
+        "5": {
+            "a":"asset/jadi/255A.png",
+            "b":"asset/jadi/255B.png",
+            "c":"asset/jadi/255C.png",
+            "d":"asset/jadi/255D.png",
+            "e":"asset/jadi/255E.png"
+        },
+        "6": {
+            "a":"biasa",
+            "b":"konsisten",
+            "c":"tak setuju",
+            "d":"perintis",
+            "e":"konsekuen"
+        },
+        "7": {
+            "a":"913",
+            "b":"5124",
+            "c":"5810",
+            "d":"256",
+            "e":"1417"
+        },
+        "8": {
+            "a":"1",
+            "b":"7",
+            "c":"5",
+            "d":"8",
+            "e":"9"
+        },
+        "9": {
+            "a":"5684",
+            "b":"1670",
+            "c":"2387",
+            "d":"157",
+            "e":"341"
+        },
+        "10": {
+            "a":"asset/jadi/260A.png",
+            "b":"asset/jadi/260B.png",
+            "c":"asset/jadi/260C.png",
+            "d":"asset/jadi/260D.png",
+            "e":"asset/jadi/260E.png"
+        },
+        "11": {
+            "a":"baru",
+            "b":"modern",
+            "c":"klasik",
+            "d":"progres",
+            "e":"canggih"
+        },
+        "12": {
+            "a":"bekal - pendapat",
+            "b":"wisata - peserta rapat",
+            "c":"mobil - suara terbanyak",
+            "d":"tempat tujuan - rapat",
+            "e":"istirahat - palu rapat"
+        },
+        "13": {
+            "a":"asset/jadi/263A.png",
+            "b":"asset/jadi/263B.png",
+            "c":"asset/jadi/263C.png",
+            "d":"asset/jadi/263D.png",
+            "e":"asset/jadi/263E.png"
+        },
+        "14": {
+            "a":"asset/jadi/264A.png",
+            "b":"asset/jadi/264B.png",
+            "c":"asset/jadi/264C.png",
+            "d":"asset/jadi/264D.png",
+            "e":"asset/jadi/264E.png"
+        },
+        "15": {
+            "a":"asset/jadi/265A.png",
+            "b":"asset/jadi/265B.png",
+            "c":"asset/jadi/265C.png",
+            "d":"asset/jadi/265D.png",
+            "e":"asset/jadi/265E.png"
+        },
+        "16": {
+            "a":"2n - 82",
+            "b":"n + 82",
+            "c":"2n + 82",
+            "d":"2n + 80",
+            "e":"2n - 80"
+        },
+        "17": {
+            "a":"1225",
+            "b":"1375",
+            "c":"3025",
+            "d":"3125",
+            "e":"3725"
+        },
+        "18": {
+            "a":"asset/jadi/268A.png",
+            "b":"asset/jadi/268B.png",
+            "c":"asset/jadi/268C.png",
+            "d":"asset/jadi/268D.png",
+            "e":"asset/jadi/268E.png"
+        },
+        "19": {
+            "a":"9",
+            "b":"2",
+            "c":"7",
+            "d":"1",
+            "e":"5"
+        },
+        "20": {
+            "a":"asset/jadi/270A.png",
+            "b":"asset/jadi/270B.png",
+            "c":"asset/jadi/270C.png",
+            "d":"asset/jadi/270D.png",
+            "e":"asset/jadi/270E.png"
+        },
+        "21": {
+            "a":"asset/jadi/271A.png",
+            "b":"asset/jadi/271B.png",
+            "c":"asset/jadi/271C.png",
+            "d":"asset/jadi/271D.png",
+            "e":"asset/jadi/271E.png"
+        },
+        "22": {
+            "a":"28",
+            "b":"40",
+            "c":"36",
+            "d":"52",
+            "e":"27"
+        },
+        "23": {
+            "a":"asset/jadi/273A.png",
+            "b":"asset/jadi/273B.png",
+            "c":"asset/jadi/273C.png",
+            "d":"asset/jadi/273D.png",
+            "e":"asset/jadi/273E.png"
+        },
+        "24": {
+            "a":"asset/jadi/274A.png",
+            "b":"asset/jadi/274B.png",
+            "c":"asset/jadi/274C.png",
+            "d":"asset/jadi/274D.png",
+            "e":"asset/jadi/274E.png"
+        },
+        "25": {
+            "a":"8",
+            "b":"4",
+            "c":"9",
+            "d":"7",
+            "e":"3"
+        },
+        "26": {
+            "a":"asset/jadi/276A.png",
+            "b":"asset/jadi/276B.png",
+            "c":"asset/jadi/276C.png",
+            "d":"asset/jadi/276D.png",
+            "e":"asset/jadi/276E.png"
+        },
+        "27": {
+            "a":"7",
+            "b":"3",
+            "c":"4",
+            "d":"5",
+            "e":"2"
+        },
+        "28": {
+            "a":"asset/jadi/278A.png",
+            "b":"asset/jadi/278B.png",
+            "c":"asset/jadi/278C.png",
+            "d":"asset/jadi/278D.png",
+            "e":"asset/jadi/278E.png"
+        },
+        "29": {
+            "a":"asset/jadi/279A.png",
+            "b":"asset/jadi/279B.png",
+            "c":"asset/jadi/279C.png",
+            "d":"asset/jadi/279D.png",
+            "e":"asset/jadi/279E.png"
+        },
+        "30": {
+            "a":"17",
+            "b":"6",
+            "c":"3",
+            "d":"9",
+            "e":"1"
+        }
+    },
+    {
+        "1":"asset/jadi/251B.png",
+        "2": "22 dan 7",
+        "3": "pengecohan",
+        "4": "penyelarasan",
+        "5": "asset/jadi/255E.png",
+        "6": "biasa",
+        "7": "1417",
+        "8": "7",
+        "9": "157",
+        "10": "asset/jadi/260B.png",
+        "11": "progres",
+        "12": "tempat tujuan - rapat",
+        "13": "asset/jadi/263D.png",
+        "14": "asset/jadi/264C.png",
+        "15": "asset/jadi/265C.png",
+        "16": "2n + 82",
+        "17": "1375",
+        "18": "asset/jadi/268E.png",
+        "19": "9",
+        "20": "asset/jadi/270A.png",
+        "21": "asset/jadi/271D.png",
+        "22": "52",
+        "23": "asset/jadi/273C.png",
+        "24": "asset/jadi/274C.png",
+        "25": "8",
+        "26": "asset/jadi/276C.png",
+        "27": "2",
+        "28": "asset/jadi/278C.png",
+        "29": "asset/jadi/279E.png",
+        "30": "6"
+    }
+]

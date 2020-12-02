@@ -1,0 +1,278 @@
+[
+    {
+        "1": "asset/jadi/Soal41.png",
+        "2": "asset/jadi/Soal42.png",
+        "3": "Kata apakah di bawah ini yang maknanya sama dengan kata LEGALITAS",
+        "4": "asset/jadi/Soal44.png",
+        "5": "asset/jadi/Soal45.png",
+        "6": "Apakah lawan kata dari APRIORI?",
+        "7": "Seorang anak yang tingginya 150 cm difoto dalam ukuran kecil dengan skala 1:30. Kemudian, ukuran foto tersebut diperbesar dengan skala 4:1. Maka, tinggi anak dalam foto terakhir adalah....",
+        "8": "asset/jadi/Soal48.png",
+        "9": "asset/jadi/Soal49.png",
+        "10": "asset/jadi/Soal50.png",
+        "11": "asset/jadi/Soal51.png",
+        "12": "asset/jadi/Soal52.png",
+        "13": "asset/jadi/Soal53.png",
+        "14": "asset/jadi/Soal54.png",
+        "15": "asset/jadi/Soal55.png",
+        "16": "Apakah lawan kata dari LOYAL?",
+        "17": "Kata apakah di bawah ini yang maknanya sama dengan kata DELUSI?",
+        "18": "asset/jadi/Soal58.png",
+        "19": "Pilihlah salah satu kata yang tidak mempunyai kesamaan dengan kata-kata lainnya!",
+        "20": "asset/jadi/Soal60.png",
+        "21":"asset/jadi/Soal61.png",
+	    "22":"asset/jadi/Soal62.png",
+	    "23":"Kata apakah dibawah ini yang maknanya sama dengan kata INSINUASI?",
+	    "24":"asset/jadi/Soal64.png",
+	    "25":"asset/jadi/Soal65.png",
+	    "26":"asset/jadi/Soal66.png",
+	    "27":"Manakah kata berikut yang tidak termasuk kelompoknya?",
+	    "28":"asset/jadi/Soal68.png",
+	    "29":"Manakah yang berbeda dari lainnya?",
+	    "30":"asset/jadi/Soal70.png"
+    },
+    {
+        "1": {
+            "a":"6",
+            "b":"4",
+            "c":"3",
+            "d":"5",
+            "e":"7"
+        },
+        "2": {
+            "a":"10",
+            "b":"12",
+            "c":"5",
+            "d":"8",
+            "e":"2"
+        },
+        "3": {
+            "a":"keabsahan",
+            "b":"masalah hukum",
+            "c":"tanda setuju",
+            "d":"tidak sah",
+            "e":"persetujuan"
+        },
+        "4": {
+            "a":"asset/jadi/44A.png",
+            "b":"asset/jadi/44B.png",
+            "c":"asset/jadi/44C.png",
+            "d":"asset/jadi/44D.png",
+            "e":"asset/jadi/44E.png"
+        },
+        "5": {
+            "a":"asset/jadi/45A.png",
+            "b":"asset/jadi/45B.png",
+            "c":"asset/jadi/45C.png",
+            "d":"asset/jadi/45D.png",
+            "e":"asset/jadi/45E.png"
+        },
+        "6": {
+            "a":"unggulan",
+            "b":"tidak istimewa",
+            "c":"proporsi",
+            "d":"aposteriori",
+            "e":"prioritas"
+        },
+        "7": {
+            "a":"18 cm",
+            "b":"20 cm",
+            "c":"35 cm",
+            "d":"40 cm",
+            "e":"100 cm"
+        },
+        "8": {
+            "a":"1",
+            "b":"8",
+            "c":"6",
+            "d":"7",
+            "e":"0"
+        },
+        "9": {
+            "a":"asset/jadi/49A.png",
+            "b":"asset/jadi/49B.png",
+            "c":"asset/jadi/49C.png",
+            "d":"asset/jadi/49D.png",
+            "e":"asset/jadi/49E.png"
+        },
+        "10": {
+            "a":"10",
+            "b":"9",
+            "c":"8",
+            "d":"7",
+            "e":"6"
+        },   
+        "11": {
+            "a":"asset/jadi/51A.png",
+            "b":"asset/jadi/51B.png",
+            "c":"asset/jadi/51C.png",
+            "d":"asset/jadi/51D.png",
+            "e":"asset/jadi/51E.png"
+        },
+        "12": {
+            "a":"asset/jadi/52A.png",
+            "b":"asset/jadi/52B.png",
+            "c":"asset/jadi/52C.png",
+            "d":"asset/jadi/52D.png",
+            "e":"asset/jadi/52E.png"
+        },
+        "13": {
+            "a":"asset/jadi/53A.png",
+            "b":"asset/jadi/53B.png",
+            "c":"asset/jadi/53C.png",
+            "d":"asset/jadi/53D.png",
+            "e":"asset/jadi/53E.png"
+        },
+        "14": {
+            "a":"12",
+            "b":"19",
+            "c":"9",
+            "d":"4",
+            "e":"6"
+        }, 
+        "15": {
+            "a":"asset/jadi/55A.png",
+            "b":"asset/jadi/55B.png",
+            "c":"asset/jadi/55C.png",
+            "d":"asset/jadi/55D.png",
+            "e":"asset/jadi/55E.png"
+        },
+        "16": {
+            "a":"taat",
+            "b":"khianat",
+            "c":"hemat",
+            "d":"umum",
+            "e":"boros"
+        },
+        "17": {
+            "a":"kekecewaan",
+            "b":"khawatir",
+            "c":"ilusi",
+            "d":"friksi",
+            "e":"nyata"
+        },  
+        "18": {
+            "a":"65",
+            "b":"66",
+            "c":"68",
+            "d":"70",
+            "e":"84"
+        }, 
+        "19": {
+            "a":"joglo",
+            "b":"limasan",
+            "c":"macan angop",
+            "d":"pendapa",
+            "e":"kraton"
+        }, 
+        "20": {
+            "a":"asset/jadi/60A.png",
+            "b":"asset/jadi/60B.png",
+            "c":"asset/jadi/60C.png",
+            "d":"asset/jadi/60D.png",
+            "e":"asset/jadi/60E.png"
+        },
+        "21": {
+            "a":"asset/jadi/61A.png",
+            "b":"asset/jadi/61B.png",
+            "c":"asset/jadi/61C.png",
+            "d":"asset/jadi/61D.png",
+            "e":"asset/jadi/61E.png"
+        },
+        "22": {
+            "a":"OQSV",
+            "b":"JLOQ",
+            "c":"EGJL",
+            "d":"DFIK",
+            "e":"NPSU"
+        },
+        "23":  {
+            "a":"sindiran",
+            "b":"perasaan halus",
+            "c":"keadaan",
+            "d":"kesempatan",
+            "e":"lembaga"
+        },
+        "24": {
+            "a":"6",
+            "b":"3",
+            "c":"7",
+            "d":"1",
+            "e":"5"
+        },
+        "25": {
+            "a":"489",
+            "b":"3918",
+            "c":"647",
+            "d":"993",
+            "e":"5826"
+        },
+        "26": {
+            "a":"asset/jadi/66A.png",
+            "b":"asset/jadi/66B.png",
+            "c":"asset/jadi/66C.png",
+            "d":"asset/jadi/66D.png",
+            "e":"asset/jadi/66E.png"
+        },
+        "27": {
+            "a":"catur",
+            "b":"golf",
+            "c":"basket",
+            "d":"voli",
+            "e":"tenis"
+        },
+        "28": {
+            "a":"117",
+            "b":"1568",
+            "c":"265",
+            "d":"105",
+            "e":"2647"
+        },
+        "29": {
+            "a":"asset/jadi/69A.png",
+            "b":"asset/jadi/69B.png",
+            "c":"asset/jadi/69C.png",
+            "d":"asset/jadi/69D.png",
+            "e":"asset/jadi/69E.png"
+        },
+        "30": {
+            "a":"asset/jadi/70A.png",
+            "b":"asset/jadi/70B.png",
+            "c":"asset/jadi/70C.png",
+            "d":"asset/jadi/70D.png",
+            "e":"asset/jadi/70E.png"
+        }   
+    },
+    {
+        "1": "6",
+        "2": "5",
+        "3": "keabsahan",
+        "4": "asset/jadi/44A.png",
+        "5": "asset/jadi/45C.png",
+        "6": "aposteriori",
+        "7": "20 cm",
+        "8": "6",
+        "9": "asset/jadi/49A.png",
+        "10": "6",
+        "11": "asset/jadi/51E.png",
+        "12": "asset/jadi/52B.png",
+        "13": "asset/jadi/53B.png",
+        "14": "9",
+        "15": "asset/jadi/55E.png",
+        "16": "khianat",
+        "17": "ilusi",
+        "18": "66",
+        "19": "kraton",
+        "20": "asset/jadi/60E.png",
+        "21":"asset/jadi/61C.png",
+        "22":"asset/jadi/62A.png",
+        "23":"sindiran",
+        "24":"3",
+        "25":"647",
+        "26":"asset/jadi/66E.png",
+        "27":"catur",
+        "28":"105",
+        "29":"asset/jadi/69E.png",
+        "30":"asset/jadi/70E.png"
+    }
+]

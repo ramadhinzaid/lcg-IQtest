@@ -1,0 +1,278 @@
+[
+    {
+        "1": "asset/jadi/Soal131.png",
+        "2": "asset/jadi/Soal132.png",
+        "3": "asset/jadi/Soal133.png",
+        "4": "asset/jadi/Soal134.png",
+        "5": "asset/jadi/Soal135.png",
+        "6": "asset/jadi/Soal136.png",
+        "7": "asset/jadi/Soal137.png",
+        "8": "asset/jadi/Soal138.png",
+        "9": "asset/jadi/Soal139.png",
+        "10": "asset/jadi/Soal140.png",
+        "11": "Manakah dari perhitungan di bawah ini yang hasilnya tidak sama dengan 100?",
+        "12": "asset/jadi/Soal142.png",
+        "13": "asset/jadi/Soal143.png",
+        "14": "asset/jadi/Soal144.png",
+        "15": "Seorang pedagang menjual sebuah barang Rp 80.000,00 dan memperoleh keuntungan sebesar 25%. Berapakah harga beli barang tersebut?",
+        "16": "asset/jadi/Soal161.png",
+        "17": "asset/jadi/Soal162.png",
+        "18": "Dalam 10 hari, Maman bersama 4 temannya dapat mengupas 500 buah kelapa. Maman ingin menyelesaikannya dalam 2 hari. berapa orang teman yang harus diajak Maman lagi, jika dengan penambahan orang tersebut kecepatan kerja masing-masing orang menjadi setengah dari kecepatan semula?",
+        "19": "asset/jadi/Soal164.png",
+        "20": "asset/jadi/Soal165.png",
+        "21": "asset/jadi/Soal166.png",
+        "22": "asset/jadi/Soal167.png",
+        "23": "asset/jadi/Soal168.png",
+        "24": "asset/jadi/Soal169.png",
+        "25": "Kata apakah dibawah ini yang maknanya sama dengan kata DESKRIPTIF?",
+        "26": "asset/jadi/Soal171.png",
+        "27": "Carilah kata berikut yang tidak termasuk dalam kelompoknya!",
+        "28": "Manakah di bawah ini yang bila dijumlahkan tidak sama dengan 512?",
+        "29": "asset/jadi/Soal174.png",
+        "30": "Apa lawan kata dari NISBI?"
+    },
+    {
+        "1": {
+            "a":"6",
+            "b":"2",
+            "c":"5",
+            "d":"3",
+            "e":"9"
+        },
+        "2": {
+            "a":"513",
+            "b":"1162",
+            "c":"136",
+            "d":"2101",
+            "e":"1291"
+        },
+        "3": {
+            "a":"asset/jadi/133A.png",
+            "b":"asset/jadi/133B.png",
+            "c":"asset/jadi/133C.png",
+            "d":"asset/jadi/133D.png",
+            "e":"asset/jadi/133E.png"
+        },
+        "4": {
+            "a":"12",
+            "b":"15",
+            "c":"7",
+            "d":"6",
+            "e":"2"
+        },
+        "5": {
+            "a":"asset/jadi/135A.png",
+            "b":"asset/jadi/135B.png",
+            "c":"asset/jadi/135C.png",
+            "d":"asset/jadi/135D.png",
+            "e":"asset/jadi/135E.png"
+        },
+        "6": {
+            "a":"25",
+            "b":"55",
+            "c":"75",
+            "d":"100",
+            "e":"125"
+        },
+        "7": {
+            "a":"asset/jadi/137A.png",
+            "b":"asset/jadi/137B.png",
+            "c":"asset/jadi/137C.png",
+            "d":"asset/jadi/137D.png",
+            "e":"asset/jadi/137E.png"
+        },
+        "8": {
+            "a":"asset/jadi/138A.png",
+            "b":"asset/jadi/138B.png",
+            "c":"asset/jadi/138C.png",
+            "d":"asset/jadi/138D.png",
+            "e":"asset/jadi/138E.png"
+        },
+        "9": {
+            "a":"417",
+            "b":"926",
+            "c":"138",
+            "d":"172",
+            "e":"428"
+        },
+        "10": {
+            "a":"asset/jadi/140A.png",
+            "b":"asset/jadi/140B.png",
+            "c":"asset/jadi/140C.png",
+            "d":"asset/jadi/140D.png",
+            "e":"asset/jadi/140E.png"
+        },
+        "11": {
+            "a":"asset/jadi/141A.png",
+            "b":"asset/jadi/141B.png",
+            "c":"asset/jadi/141C.png",
+            "d":"asset/jadi/141D.png",
+            "e":"asset/jadi/141E.png"
+        },
+        "12": {
+            "a":"14",
+            "b":"10",
+            "c":"8",
+            "d":"6",
+            "e":"4"
+        },
+        "13": {
+            "a":"2",
+            "b":"5",
+            "c":"1",
+            "d":"9",
+            "e":"8"
+        },
+        "14": {
+            "a":"asset/jadi/144A.png",
+            "b":"asset/jadi/144B.png",
+            "c":"asset/jadi/144C.png",
+            "d":"asset/jadi/144D.png",
+            "e":"asset/jadi/144E.png"
+        },
+        "15": {
+            "a":"Rp 64.000,00",
+            "b":"Rp 72.000,00",
+            "c":"Rp 80.000,00",
+            "d":"Rp 96.000,00",
+            "e":"Rp 120.000,00"
+        },
+        "16": {
+            "a":"asset/jadi/161A.png",
+            "b":"asset/jadi/161B.png",
+            "c":"asset/jadi/161C.png",
+            "d":"asset/jadi/161D.png",
+            "e":"asset/jadi/161E.png"
+        },
+        "17": {
+            "a":"4",
+            "b":"5",
+            "c":"6",
+            "d":"7",
+            "e":"8"
+        },
+        "18": {
+            "a":"5 orang",
+            "b":"6 orang",
+            "c":"10 orang",
+            "d":"15 orang",
+            "e":"20 orang"
+        },
+        "19": {
+            "a":"asset/jadi/164A.png",
+            "b":"asset/jadi/164B.png",
+            "c":"asset/jadi/164C.png",
+            "d":"asset/jadi/164D.png",
+            "e":"asset/jadi/164E.png"
+        },
+        "20": {
+            "a":"asset/jadi/165A.png",
+            "b":"asset/jadi/165B.png",
+            "c":"asset/jadi/165C.png",
+            "d":"asset/jadi/165D.png",
+            "e":"asset/jadi/165E.png"
+        },
+        "21": {
+            "a":"asset/jadi/166A.png",
+            "b":"asset/jadi/166B.png",
+            "c":"asset/jadi/166C.png",
+            "d":"asset/jadi/166D.png",
+            "e":"asset/jadi/166E.png"
+        },
+        "22": {
+            "a":"5926 - 1813",
+            "b":"4621 - 2312",
+            "c":"9842 - 8421",
+            "d":"8346 - 4623",
+            "e":"6214 - 3122"
+        },
+        "23": {
+            "a":"asset/jadi/168A.png",
+            "b":"asset/jadi/168B.png",
+            "c":"asset/jadi/168C.png",
+            "d":"asset/jadi/168D.png",
+            "e":"asset/jadi/168E.png"
+        },
+        "24": {
+            "a":"168",
+            "b":"170",
+            "c":"195",
+            "d":"196",
+            "e":"197"
+        },
+        "25": {
+            "a":"puisi",
+            "b":"prosa",
+            "c":"naratif",
+            "d":"dedukatif",
+            "e":"gambaran"
+        },
+        "26": {
+            "a":"asset/jadi/171A.png",
+            "b":"asset/jadi/171B.png",
+            "c":"asset/jadi/171C.png",
+            "d":"asset/jadi/171D.png",
+            "e":"asset/jadi/171E.png"
+        },
+        "27": {
+            "a":"Sindoro",
+            "b":"Dieng",
+            "c":"Kelud",
+            "d":"Merapi",
+            "e":"Merbabu"
+        },
+        "28": {
+            "a":"asset/jadi/173A.png",
+            "b":"asset/jadi/173B.png",
+            "c":"asset/jadi/173C.png",
+            "d":"asset/jadi/173D.png",
+            "e":"asset/jadi/173E.png"
+        },
+        "29": {
+            "a":"85",
+            "b":"40",
+            "c":"51",
+            "d":"72",
+            "e":"93"
+        },
+        "30": {
+            "a":"mutlak",
+            "b":"layak",
+            "c":"maya",
+            "d":"stabil",
+            "e":"abstrak"
+        }
+    },
+    {
+        "1":"2",
+        "2": "136",
+        "3": "asset/jadi/133B.png",
+        "4": "6",
+        "5": "asset/jadi/135C.png",
+        "6": "25",
+        "7": "asset/jadi/137A.png",
+        "8": "asset/jadi/138C.png",
+        "9": "172",
+        "10": "asset/jadi/140C.png",
+        "11": "asset/jadi/141C.png",
+        "12": "6",
+        "13": "1",
+        "14": "asset/jadi/144D.png",
+        "15": "Rp 64.000,00",
+        "16":"asset/jadi/161D.png",
+        "17": "8",
+        "18": "20 orang",
+        "19": "asset/jadi/164B.png",
+        "20": "asset/jadi/165E.png",
+        "21": "asset/jadi/166D.png",
+        "22": "8346 - 4623",
+        "23": "asset/jadi/168B.png",
+        "24": "195",
+        "25": "gambaran",
+        "26": "asset/jadi/171C.png",
+        "27": "Dieng",
+        "28": "asset/jadi/173E.png",
+        "29": "85",
+        "30": "mutlak"
+    }
+]

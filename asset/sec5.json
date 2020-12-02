@@ -1,0 +1,278 @@
+[
+    {
+        "1": "asset/jadi/Soal101.png",
+        "2": "Persamaan kata dari kata RESAH adalah...",
+        "3": "Lawan kata dari aktual adalah...",
+        "4": "Marah berhubungan dengan ..., sebagaimana ... berhubungan dengan ledakan.",
+        "5": "Manakah satu kata yang tidak mempunyai kesamaan dengan kata-kata lainnya?",
+        "6": "asset/jadi/Soal106.png",
+        "7": "asset/jadi/Soal107.png",
+        "8": "asset/jadi/Soal108.png",
+        "9": "Suatu pekerjaan dapat diselesaikan oleh 35 orang dalam 2 minggu. Lebih cepat berapa harikah pekerjaan itu dapat diselesaikan bila dikerjakan oleh 45 orang?",
+        "10": "asset/jadi/Soal110.png",
+        "11": "asset/jadi/Soal111.png",
+        "12": "asset/jadi/Soal112.png",
+        "13": "asset/jadi/Soal113.png",
+        "14": "asset/jadi/Soal114.png",
+        "15": "asset/jadi/Soal115.png",
+        "16": "asset/jadi/Soal116.png",
+        "17": "asset/jadi/Soal117.png",
+        "18": "asset/jadi/Soal118.png",
+        "19": "asset/jadi/Soal119.png",
+        "20": "asset/jadi/Soal120.png",
+        "21": "asset/jadi/Soal121.png",
+        "22": "asset/jadi/Soal122.png",
+        "23": "asset/jadi/Soal123.png",
+        "24": "asset/jadi/Soal124.png",
+        "25": "asset/jadi/Soal125.png",
+        "26": "asset/jadi/Soal126.png",
+        "27": "asset/jadi/Soal127.png",
+        "28": "asset/jadi/Soal128.png",
+        "29": "Manakah yang berbeda dari lainnya?",
+        "30": "asset/jadi/Soal130.png"
+    },
+    {
+        "1": {
+            "a":"asset/jadi/101A.png",
+            "b":"asset/jadi/101B.png",
+            "c":"asset/jadi/101C.png",
+            "d":"asset/jadi/101D.png",
+            "e":"asset/jadi/101E.png"
+        },
+        "2": {
+            "a":"gulana",
+            "b":"lekat",
+            "c":"gundah",
+            "d":"kendala",
+            "e":"dilema"
+        },
+        "3": {
+            "a":"fiktif",
+            "b":"modern",
+            "c":"sebenarnya",
+            "d":"kadaluwarsa",
+            "e":"baru"
+        },
+        "4": {
+            "a":"kerusakan-peledak",
+            "b":"amuk-letupan",
+            "c":"emosi-bom",
+            "d":"tidak puas-teror",
+            "e":"hawa nafsu-tekanan"
+        },
+        "5": {
+            "a":"dokter",
+            "b":"pedagang",
+            "c":"guru",
+            "d":"pengusaha",
+            "e":"pengendara"
+        },
+        "6": {
+            "a":"asset/jadi/106A.png",
+            "b":"asset/jadi/106B.png",
+            "c":"asset/jadi/106C.png",
+            "d":"asset/jadi/106D.png",
+            "e":"asset/jadi/106E.png"
+        },
+        "7": {
+            "a":"7",
+            "b":"2",
+            "c":"9",
+            "d":"1",
+            "e":"5"
+        },
+        "8": {
+            "a":"59",
+            "b":"60",
+            "c":"68",
+            "d":"90",
+            "e":"112"
+        },
+        "9": {
+            "a":"3 hari",
+            "b":"4 hari",
+            "c":"5 hari",
+            "d":"6 hari",
+            "e":"7 hari"
+        },
+        "10": {
+            "a":"asset/jadi/110A.png",
+            "b":"asset/jadi/110B.png",
+            "c":"asset/jadi/110C.png",
+            "d":"asset/jadi/110D.png",
+            "e":"asset/jadi/110E.png"
+        },
+        "11": {
+            "a":"741/357",
+            "b":"159/798",
+            "c":"753/132",
+            "d":"123/357",
+            "e":"753/357"
+        },
+        "12": {
+            "a":"asset/jadi/112A.png",
+            "b":"asset/jadi/112B.png",
+            "c":"asset/jadi/112C.png",
+            "d":"asset/jadi/112D.png",
+            "e":"asset/jadi/112E.png"
+        },
+        "13": {
+            "a":"asset/jadi/113A.png",
+            "b":"asset/jadi/113B.png",
+            "c":"asset/jadi/113C.png",
+            "d":"asset/jadi/113D.png",
+            "e":"asset/jadi/113E.png"
+        },
+        "14": {
+            "a":"asset/jadi/114A.png",
+            "b":"asset/jadi/114B.png",
+            "c":"asset/jadi/114C.png",
+            "d":"asset/jadi/114D.png",
+            "e":"asset/jadi/114E.png"
+        },
+        "15": {
+            "a":"1",
+            "b":"2",
+            "c":"3",
+            "d":"4",
+            "e":"5"
+        },
+        "16": {
+            "a":"6",
+            "b":"5",
+            "c":"3",
+            "d":"7",
+            "e":"2"
+        },
+        "17": {
+            "a":"1",
+            "b":"6",
+            "c":"5",
+            "d":"14",
+            "e":"8"
+        },
+        "18": {
+            "a":"asset/jadi/118A.png",
+            "b":"asset/jadi/118B.png",
+            "c":"asset/jadi/118C.png",
+            "d":"asset/jadi/118D.png",
+            "e":"asset/jadi/118E.png"
+        },
+        "19": {
+            "a":"1",
+            "b":"2",
+            "c":"3",
+            "d":"4",
+            "e":"5"
+        },
+        "20": {
+            "a":"asset/jadi/120A.png",
+            "b":"asset/jadi/120B.png",
+            "c":"asset/jadi/120C.png",
+            "d":"asset/jadi/120D.png",
+            "e":"asset/jadi/120E.png"
+        },
+        "21": {
+            "a":"asset/jadi/121A.png",
+            "b":"asset/jadi/121B.png",
+            "c":"asset/jadi/121C.png",
+            "d":"asset/jadi/121D.png",
+            "e":"asset/jadi/121E.png"
+        },
+        "22": {
+            "a":"asset/jadi/122A.png",
+            "b":"asset/jadi/122B.png",
+            "c":"asset/jadi/122C.png",
+            "d":"asset/jadi/122D.png",
+            "e":"asset/jadi/122E.png"
+        },
+        "23": {
+            "a":"asset/jadi/123A.png",
+            "b":"asset/jadi/123B.png",
+            "c":"asset/jadi/123C.png",
+            "d":"asset/jadi/123D.png",
+            "e":"asset/jadi/123E.png"
+        },
+        "24": {
+            "a":"asset/jadi/124A.png",
+            "b":"asset/jadi/124B.png",
+            "c":"asset/jadi/124C.png",
+            "d":"asset/jadi/124D.png",
+            "e":"asset/jadi/124E.png"
+        },
+        "25": {
+            "a":"1",
+            "b":"9",
+            "c":"5",
+            "d":"2",
+            "e":"6"
+        },
+        "26": {
+            "a":"10",
+            "b":"21",
+            "c":"18",
+            "d":"58",
+            "e":"94"
+        },
+        "27": {
+            "a":"asset/jadi/127A.png",
+            "b":"asset/jadi/127B.png",
+            "c":"asset/jadi/127C.png",
+            "d":"asset/jadi/127D.png",
+            "e":"asset/jadi/127E.png"
+        },
+        "28": {
+            "a":"asset/jadi/128A.png",
+            "b":"asset/jadi/128B.png",
+            "c":"asset/jadi/128C.png",
+            "d":"asset/jadi/128D.png",
+            "e":"asset/jadi/128E.png"
+        },
+        "29": {
+            "a":"asset/jadi/129A.png",
+            "b":"asset/jadi/129B.png",
+            "c":"asset/jadi/129C.png",
+            "d":"asset/jadi/129D.png",
+            "e":"asset/jadi/129E.png"
+        },
+        "30": {
+            "a":"74",
+            "b":"42",
+            "c":"56",
+            "d":"9",
+            "e":"13"
+        }
+    },
+    {
+        "1":"asset/jadi/101B.png",
+        "2": "gundah",
+        "3": "fiktif",
+        "4": "amuk-letupan",
+        "5": "pengendara",
+        "6": "asset/jadi/106E.png",
+        "7": "7",
+        "8": "59",
+        "9": "3 hari",
+        "10": "asset/jadi/110A.png",
+        "11": "753/357",
+        "12": "asset/jadi/112E.png",
+        "13": "asset/jadi/113A.png",
+        "14": "asset/jadi/114E.png",
+        "15": "3",
+        "16": "6",
+        "17": "1",
+        "18": "asset/jadi/118E.png",
+        "19": "5",
+        "20": "asset/jadi/120C.png",
+        "21": "asset/jadi/121D.png",
+        "22": "asset/jadi/122B.png",
+        "23": "asset/jadi/123D.png",
+        "24": "asset/jadi/124D.png",
+        "25": "5",
+        "26": "10",
+        "27": "asset/jadi/127D.png",
+        "28": "asset/jadi/128C.png",
+        "29": "asset/jadi/129D.png",
+        "30": "74"
+    }
+]

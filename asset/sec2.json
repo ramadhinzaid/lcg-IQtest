@@ -1,0 +1,278 @@
+[
+    {
+        "1":"asset/jadi/Soal71.png",
+	    "2":"Apakah lawan kata dari MONOTON?",
+	    "3":"Pak Bimo memesan 15 paket barang kepada Pak Yanto dan minta diantarkan. Bila dalam sekali jalan Pak Yanto dapat mengantarkan 4 paket barang, berapa kali Pak Yanto harus bolak-balik ke tempat Pak Bimo untuk mengantarkan seluruh pesanannya?",
+	    "4":"asset/jadi/Soal74.png",
+	    "5":"asset/jadi/Soal75.png",
+	    "6":"asset/jadi/Soal76.png",
+	    "7":"asset/jadi/Soal77.png",
+	    "8":"Kata apakah dibawah ini yang maknanya sama dengan kata ANULIR?",
+	    "9":"asset/jadi/Soal79.png",
+	    "10":"asset/jadi/Soal80.png",
+        "11":"asset/jadi/Soal81.png",
+	    "12":"asset/jadi/Soal82.png",
+	    "13":"Manakah yang berbeda dari yang lainnya?",
+	    "14":"asset/jadi/Soal84.png",
+	    "15":"asset/jadi/Soal85.png",
+	    "16":"asset/jadi/Soal86.png",
+	    "17":"asset/jadi/Soal87.png",
+	    "18":"asset/jadi/Soal88.png",
+	    "19":"asset/jadi/Soal89.png",
+	    "20":"Apakah lawan kata dari OTORITER?",
+        "21":"asset/jadi/Soal91.png",
+	    "22":"Carilah kata berikut yang tidak termasuk kelompoknya!",
+	    "23":"asset/jadi/Soal93.png",
+	    "24":"asset/jadi/Soal94.png",
+	    "25":"asset/jadi/Soal95.png",
+	    "26":"asset/jadi/Soal96.png",
+	    "27":"asset/jadi/Soal97.png",
+	    "28":"asset/jadi/Soal98.png",
+	    "29":"asset/jadi/Soal99.png",
+	    "30":"asset/jadi/Soal100.png"
+    },
+    {
+        "1": {
+            "a":"asset/jadi/71A.png",
+            "b":"asset/jadi/71B.png",
+            "c":"asset/jadi/71C.png",
+            "d":"asset/jadi/71D.png",
+            "e":"asset/jadi/71E.png"
+        },
+        "2": {
+            "a":"turunan",
+            "b":"terus-menerus",
+            "c":"dinamis",
+            "d":"dramatis",
+            "e":"berselang-seling"
+        },
+        "3": {
+            "a":"2 3/4",
+            "b":"3",
+            "c":"3 3/4",
+            "d":"4",
+            "e":"5"
+        },
+        "4": {
+            "a":"asset/jadi/74A.png",
+            "b":"asset/jadi/74B.png",
+            "c":"asset/jadi/74C.png",
+            "d":"asset/jadi/74D.png",
+            "e":"asset/jadi/74E.png"
+        },
+        "5": {
+            "a":"50",
+            "b":"93",
+            "c":"28",
+            "d":"74",
+            "e":"41"
+        },
+        "6": {
+            "a":"9",
+            "b":"10",
+            "c":"11",
+            "d":"12",
+            "e":"13"
+        },
+        "7": {
+            "a":"asset/jadi/77A.png",
+            "b":"asset/jadi/77B.png",
+            "c":"asset/jadi/77C.png",
+            "d":"asset/jadi/77D.png",
+            "e":"asset/jadi/77E.png"
+        },
+        "8": {
+            "a":"pemberatan",
+            "b":"abolisi",
+            "c":"regresi",
+            "d":"penambahan",
+            "e":"analisis"
+        },
+        "9": {
+            "a":"17",
+            "b":"10",
+            "c":"13",
+            "d":"6",
+            "e":"9"
+        },
+        "10": {
+            "a":"asset/jadi/80A.png",
+            "b":"asset/jadi/80B.png",
+            "c":"asset/jadi/80C.png",
+            "d":"asset/jadi/80D.png",
+            "e":"asset/jadi/80E.png"
+        },
+        "11": {
+            "a":"asset/jadi/81A.png",
+            "b":"asset/jadi/81B.png",
+            "c":"asset/jadi/81C.png",
+            "d":"asset/jadi/81D.png",
+            "e":"asset/jadi/81E.png"
+        },
+        "12": {
+            "a":"9",
+            "b":"2",
+            "c":"11",
+            "d":"5",
+            "e":"7"
+        },
+        "13": {
+            "a":"asset/jadi/83A.png",
+            "b":"asset/jadi/83B.png",
+            "c":"asset/jadi/83C.png",
+            "d":"asset/jadi/83D.png",
+            "e":"asset/jadi/83E.png"
+        },
+        "14": {
+            "a":"asset/jadi/84A.png",
+            "b":"asset/jadi/84B.png",
+            "c":"asset/jadi/84C.png",
+            "d":"asset/jadi/84D.png",
+            "e":"asset/jadi/84E.png"
+        },
+        "15": {
+            "a":"asset/jadi/85A.png",
+            "b":"asset/jadi/85B.png",
+            "c":"asset/jadi/85C.png",
+            "d":"asset/jadi/85D.png",
+            "e":"asset/jadi/85E.png"
+        },
+        "16": {
+            "a":"asset/jadi/86A.png",
+            "b":"asset/jadi/86B.png",
+            "c":"asset/jadi/86C.png",
+            "d":"asset/jadi/86D.png",
+            "e":"asset/jadi/86E.png"
+        },
+        "17": {
+            "a":"asset/jadi/87A.png",
+            "b":"asset/jadi/87B.png",
+            "c":"asset/jadi/87C.png",
+            "d":"asset/jadi/87D.png",
+            "e":"asset/jadi/87E.png"
+        },
+        "18": {
+            "a":"asset/jadi/88A.png",
+            "b":"asset/jadi/88B.png",
+            "c":"asset/jadi/88C.png",
+            "d":"asset/jadi/88D.png",
+            "e":"asset/jadi/88E.png"
+        },
+        "19": {
+            "a":"12",
+            "b":"28",
+            "c":"9",
+            "d":"37",
+            "e":"5"
+        },
+        "20": {
+            "a":"kuasa",
+            "b":"demokrasi",
+            "c":"bebas",
+            "d":"sekuler",
+            "e":"hambatan"
+        },
+        "21": {
+            "a":"H",
+            "b":"J",
+            "c":"O",
+            "d":"Q",
+            "e":"S"
+        },
+        "22": {
+            "a":"bintang utara",
+            "b":"kompas",
+            "c":"arah",
+            "d":"arloji",
+            "e":"penunjuk jalan"
+        },
+        "23": {
+            "a":"asset/jadi/93A.png",
+            "b":"asset/jadi/93B.png",
+            "c":"asset/jadi/93C.png",
+            "d":"asset/jadi/93D.png",
+            "e":"asset/jadi/93E.png"
+        },
+        "24": {
+            "a":"asset/jadi/94A.png",
+            "b":"asset/jadi/94B.png",
+            "c":"asset/jadi/94C.png",
+            "d":"asset/jadi/94D.png",
+            "e":"asset/jadi/94E.png"
+        },
+        "25": {
+            "a":"asset/jadi/95A.png",
+            "b":"asset/jadi/95B.png",
+            "c":"asset/jadi/95C.png",
+            "d":"asset/jadi/95D.png",
+            "e":"asset/jadi/95E.png"
+        },
+        "26": {
+            "a":"asset/jadi/96A.png",
+            "b":"asset/jadi/96B.png",
+            "c":"asset/jadi/96C.png",
+            "d":"asset/jadi/96D.png",
+            "e":"asset/jadi/96E.png"
+        },
+        "27": {
+            "a":"LOP",
+            "b":"MOP",
+            "c":"LIP",
+            "d":"MOW",
+            "e":"KIP"
+        },
+        "28": {
+            "a":"2148",
+            "b":"11894",
+            "c":"11615",
+            "d":"5621",
+            "e":"54380"
+        },
+        "29": {
+            "a":"asset/jadi/99A.png",
+            "b":"asset/jadi/99B.png",
+            "c":"asset/jadi/99C.png",
+            "d":"asset/jadi/99D.png",
+            "e":"asset/jadi/99E.png"
+        },
+        "30": {
+            "a":"asset/jadi/100A.png",
+            "b":"asset/jadi/100B.png",
+            "c":"asset/jadi/100C.png",
+            "d":"asset/jadi/100D.png",
+            "e":"asset/jadi/100E.png"
+        } 
+    },
+    {
+        "1":"asset/jadi/71B.png",
+        "2":"berselang-seling",
+        "3":"4",
+        "4":"asset/jadi/74A.png",
+        "5":"74",
+        "6":"13",
+        "7":"asset/jadi/77D.png",
+        "8":"abolisi",
+        "9":"17",
+        "10":"asset/jadi/80D.png",
+        "11":"asset/jadi/81C.png",
+        "12":"2",
+        "13":"asset/jadi/83C.png",
+        "14":"asset/jadi/84E.png",
+        "15":"asset/jadi/85C.png",
+        "16":"asset/jadi/86B.png",
+        "17":"asset/jadi/87B.png",
+        "18":"asset/jadi/88D.png",
+        "19":"5",
+        "20":"demokrasi",
+        "21":"H",
+        "22":"arloji",
+        "23":"asset/jadi/93D.png",
+        "24":"asset/jadi/94E.png",
+        "25":"asset/jadi/95A.png",
+        "26":"asset/jadi/96C.png",
+        "27":"MOP",
+        "28":"11615",
+        "29":"asset/jadi/99C.png",
+        "30":"asset/jadi/100B.png"
+    }
+]

@@ -1,0 +1,278 @@
+[
+    {
+        "1": "asset/jadi/Soal131.png",
+        "2": "asset/jadi/Soal132.png",
+        "3": "asset/jadi/Soal133.png",
+        "4": "asset/jadi/Soal134.png",
+        "5": "asset/jadi/Soal135.png",
+        "6": "asset/jadi/Soal136.png",
+        "7": "asset/jadi/Soal137.png",
+        "8": "asset/jadi/Soal138.png",
+        "9": "asset/jadi/Soal139.png",
+        "10": "asset/jadi/Soal140.png",
+        "11": "Manakah dari perhitungan di bawah ini yang hasilnya tidak sama dengan 100?",
+        "12": "asset/jadi/Soal142.png",
+        "13": "asset/jadi/Soal143.png",
+        "14": "asset/jadi/Soal144.png",
+        "15": "Seorang pedagang menjual sebuah barang Rp 80.000,00 dan memperoleh keuntungan sebesar 25%. Berapakah harga beli barang tersebut?",
+        "16": "asset/jadi/Soal146.png",
+        "17": "asset/jadi/Soal147.png",
+        "18": "Manakah dari kata-kata di bawah ini yang semakna dengan kata TENDENSI",
+        "19": "asset/jadi/Soal149.png",
+        "20": "asset/jadi/Soal150.png",
+        "21": "asset/jadi/Soal151.png",
+        "22": "asset/jadi/Soal152.png",
+        "23": "asset/jadi/Soal153.png",
+        "24": "Pingsan berhubungan dengan ..., sebagaimana ... berhubungan dengan gundul.",
+        "25": "asset/jadi/Soal155.png",
+        "26": "Manakah yang berlawanan makna dengan kata ELASTIS",
+        "27": "asset/jadi/Soal157.png",
+        "28": "asset/jadi/Soal158.png",
+        "29": "asset/jadi/Soal159.png",
+        "30": "asset/jadi/Soal160.png"
+    },
+    {
+        "1": {
+            "a":"6",
+            "b":"2",
+            "c":"5",
+            "d":"3",
+            "e":"9"
+        },
+        "2": {
+            "a":"513",
+            "b":"1162",
+            "c":"136",
+            "d":"2101",
+            "e":"1291"
+        },
+        "3": {
+            "a":"asset/jadi/133A.png",
+            "b":"asset/jadi/133B.png",
+            "c":"asset/jadi/133C.png",
+            "d":"asset/jadi/133D.png",
+            "e":"asset/jadi/133E.png"
+        },
+        "4": {
+            "a":"12",
+            "b":"15",
+            "c":"7",
+            "d":"6",
+            "e":"2"
+        },
+        "5": {
+            "a":"asset/jadi/135A.png",
+            "b":"asset/jadi/135B.png",
+            "c":"asset/jadi/135C.png",
+            "d":"asset/jadi/135D.png",
+            "e":"asset/jadi/135E.png"
+        },
+        "6": {
+            "a":"25",
+            "b":"55",
+            "c":"75",
+            "d":"100",
+            "e":"125"
+        },
+        "7": {
+            "a":"asset/jadi/137A.png",
+            "b":"asset/jadi/137B.png",
+            "c":"asset/jadi/137C.png",
+            "d":"asset/jadi/137D.png",
+            "e":"asset/jadi/137E.png"
+        },
+        "8": {
+            "a":"asset/jadi/138A.png",
+            "b":"asset/jadi/138B.png",
+            "c":"asset/jadi/138C.png",
+            "d":"asset/jadi/138D.png",
+            "e":"asset/jadi/138E.png"
+        },
+        "9": {
+            "a":"417",
+            "b":"926",
+            "c":"138",
+            "d":"172",
+            "e":"428"
+        },
+        "10": {
+            "a":"asset/jadi/140A.png",
+            "b":"asset/jadi/140B.png",
+            "c":"asset/jadi/140C.png",
+            "d":"asset/jadi/140D.png",
+            "e":"asset/jadi/140E.png"
+        },
+        "11": {
+            "a":"asset/jadi/141A.png",
+            "b":"asset/jadi/141B.png",
+            "c":"asset/jadi/141C.png",
+            "d":"asset/jadi/141D.png",
+            "e":"asset/jadi/141E.png"
+        },
+        "12": {
+            "a":"14",
+            "b":"10",
+            "c":"8",
+            "d":"6",
+            "e":"4"
+        },
+        "13": {
+            "a":"2",
+            "b":"5",
+            "c":"1",
+            "d":"9",
+            "e":"8"
+        },
+        "14": {
+            "a":"asset/jadi/144A.png",
+            "b":"asset/jadi/144B.png",
+            "c":"asset/jadi/144C.png",
+            "d":"asset/jadi/144D.png",
+            "e":"asset/jadi/144E.png"
+        },
+        "15": {
+            "a":"Rp 64.000,00",
+            "b":"Rp 72.000,00",
+            "c":"Rp 80.000,00",
+            "d":"Rp 96.000,00",
+            "e":"Rp 120.000,00"
+        },
+        "16": {
+            "a":"2",
+            "b":"9",
+            "c":"5",
+            "d":"4",
+            "e":"8"
+        },
+        "17": {
+            "a":"asset/jadi/147A.png",
+            "b":"asset/jadi/147B.png",
+            "c":"asset/jadi/147C.png",
+            "d":"asset/jadi/147D.png",
+            "e":"asset/jadi/147E.png"
+        },
+        "18": {
+            "a":"lurus",
+            "b":"kesamaan",
+            "c":"kecenderungan",
+            "d":"tensi",
+            "e":"tekanan"
+        },
+        "19": {
+            "a":"8",
+            "b":"9",
+            "c":"10",
+            "d":"11",
+            "e":"12"
+        },
+        "20": {
+            "a":"asset/jadi/150A.png",
+            "b":"asset/jadi/150B.png",
+            "c":"asset/jadi/150C.png",
+            "d":"asset/jadi/150D.png",
+            "e":"asset/jadi/150E.png"
+        },
+        "21": {
+            "a":"89",
+            "b":"58",
+            "c":"16",
+            "d":"91",
+            "e":"72"
+        },
+        "22": {
+            "a":"asset/jadi/152A.png",
+            "b":"asset/jadi/152B.png",
+            "c":"asset/jadi/152C.png",
+            "d":"asset/jadi/152D.png",
+            "e":"asset/jadi/152E.png"
+        },
+        "23": {
+            "a":"48",
+            "b":"64",
+            "c":"80",
+            "d":"96",
+            "e":"112"
+        },
+        "24": {
+            "a":"lemah-gersang",
+            "b":"tubuh-bebatuan",
+            "c":"kepala-air",
+            "d":"tandu-tandus",
+            "e":"kesadaran-pohon"
+        },
+        "25": {
+            "a":"7",
+            "b":"10",
+            "c":"15",
+            "d":"19",
+            "e":"9"
+        },
+        "26": {
+            "a":"ceroboh",
+            "b":"taktis",
+            "c":"praktis",
+            "d":"lentur",
+            "e":"kaku"
+        },
+        "27": {
+            "a":"69",
+            "b":"45",
+            "c":"74",
+            "d":"18",
+            "e":"27"
+        },
+        "28": {
+            "a":"15 3/4",
+            "b":"14 1/2",
+            "c":"12 1/4",
+            "d":"14 3/4",
+            "e":"13 1/2"
+        },
+        "29": {
+            "a":"asset/jadi/159A.png",
+            "b":"asset/jadi/159B.png",
+            "c":"asset/jadi/159C.png",
+            "d":"asset/jadi/159D.png",
+            "e":"asset/jadi/159E.png"
+        },
+        "30": {
+            "a":"asset/jadi/160A.png",
+            "b":"asset/jadi/160B.png",
+            "c":"asset/jadi/160C.png",
+            "d":"asset/jadi/160D.png",
+            "e":"asset/jadi/160E.png"
+        }
+    },
+    {
+        "1":"2",
+        "2": "136",
+        "3": "asset/jadi/133B.png",
+        "4": "6",
+        "5": "asset/jadi/135C.png",
+        "6": "25",
+        "7": "asset/jadi/137A.png",
+        "8": "asset/jadi/138C.png",
+        "9": "172",
+        "10": "asset/jadi/140C.png",
+        "11": "asset/jadi/141C.png",
+        "12": "6",
+        "13": "1",
+        "14": "asset/jadi/144D.png",
+        "15": "Rp 64.000,00",
+        "16": "5",
+        "17": "asset/jadi/147C.png",
+        "18": "kecenderungan",
+        "19": "12",
+        "20": "asset/jadi/150B.png",
+        "21": "91",
+        "22": "asset/jadi/152A.png",
+        "23": "80",
+        "24": "kesadaran-pohon",
+        "25": "10",
+        "26": "kaku",
+        "27": "45",
+        "28": "14 3/4",
+        "29": "asset/jadi/159E.png",
+        "30": "asset/jadi/160E.png"
+    }
+]

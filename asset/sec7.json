@@ -1,0 +1,278 @@
+[
+    {
+        "1": "asset/jadi/Soal161.png",
+        "2": "asset/jadi/Soal162.png",
+        "3": "Dalam 10 hari, Maman bersama 4 temannya dapat mengupas 500 buah kelapa. Maman ingin menyelesaikannya dalam 2 hari. berapa orang teman yang harus diajak Maman lagi, jika dengan penambahan orang tersebut kecepatan kerja masing-masing orang menjadi setengah dari kecepatan semula?",
+        "4": "asset/jadi/Soal164.png",
+        "5": "asset/jadi/Soal165.png",
+        "6": "asset/jadi/Soal166.png",
+        "7": "asset/jadi/Soal167.png",
+        "8": "asset/jadi/Soal168.png",
+        "9": "asset/jadi/Soal169.png",
+        "10": "Kata apakah dibawah ini yang maknanya sama dengan kata DESKRIPTIF?",
+        "11": "asset/jadi/Soal171.png",
+        "12": "Carilah kata berikut yang tidak termasuk dalam kelompoknya!",
+        "13": "Manakah di bawah ini yang bila dijumlahkan tidak sama dengan 512?",
+        "14": "asset/jadi/Soal174.png",
+        "15": "Apa lawan kata dari NISBI?",
+        "16": "asset/jadi/Soal176.png",
+        "17": "asset/jadi/Soal177.png",
+        "18": "asset/jadi/Soal178.png",
+        "19": "asset/jadi/Soal179.png",
+        "20": "asset/jadi/Soal180.png",
+        "21": "Tertawa berhubungan dengan ..., sebagaimana ... berhubungan dengan sedih",
+        "22": "asset/jadi/Soal182.png",
+        "23": "asset/jadi/Soal183.png",
+        "24": "asset/jadi/Soal184.png",
+        "25": "Rata-rata nilai dari 35 siswa adalah 6,5. Apabila nilai dari dua orang siswa yang belum ikut ujian dimasukkan, maka rata-ratanya berubah menjadi 6,6. Berapakah jumlah nilai anak tersebut?",
+        "26": "Apakah lawan kata dari DEFENSIF?",
+        "27": "asset/jadi/Soal187.png",
+        "28": "asset/jadi/Soal158.png",
+        "29": "asset/jadi/Soal189.png",
+        "30": "asset/jadi/Soal190.png"
+    },
+    {
+        "1": {
+            "a":"asset/jadi/161A.png",
+            "b":"asset/jadi/161B.png",
+            "c":"asset/jadi/161C.png",
+            "d":"asset/jadi/161D.png",
+            "e":"asset/jadi/161E.png"
+        },
+        "2": {
+            "a":"4",
+            "b":"5",
+            "c":"6",
+            "d":"7",
+            "e":"8"
+        },
+        "3": {
+            "a":"5 orang",
+            "b":"6 orang",
+            "c":"10 orang",
+            "d":"15 orang",
+            "e":"20 orang"
+        },
+        "4": {
+            "a":"asset/jadi/164A.png",
+            "b":"asset/jadi/164B.png",
+            "c":"asset/jadi/164C.png",
+            "d":"asset/jadi/164D.png",
+            "e":"asset/jadi/164E.png"
+        },
+        "5": {
+            "a":"asset/jadi/165A.png",
+            "b":"asset/jadi/165B.png",
+            "c":"asset/jadi/165C.png",
+            "d":"asset/jadi/165D.png",
+            "e":"asset/jadi/165E.png"
+        },
+        "6": {
+            "a":"asset/jadi/166A.png",
+            "b":"asset/jadi/166B.png",
+            "c":"asset/jadi/166C.png",
+            "d":"asset/jadi/166D.png",
+            "e":"asset/jadi/166E.png"
+        },
+        "7": {
+            "a":"5926-1813",
+            "b":"4621-2312",
+            "c":"9842-8421",
+            "d":"8346-4623",
+            "e":"6214-3122"
+        },
+        "8": {
+            "a":"asset/jadi/168A.png",
+            "b":"asset/jadi/168B.png",
+            "c":"asset/jadi/168C.png",
+            "d":"asset/jadi/168D.png",
+            "e":"asset/jadi/168E.png"
+        },
+        "9": {
+            "a":"168",
+            "b":"170",
+            "c":"195",
+            "d":"196",
+            "e":"197"
+        },
+        "10": {
+            "a":"puisi",
+            "b":"prosa",
+            "c":"naratif",
+            "d":"dedukatif",
+            "e":"gambaran"
+        },
+        "11": {
+            "a":"asset/jadi/171A.png",
+            "b":"asset/jadi/171B.png",
+            "c":"asset/jadi/171C.png",
+            "d":"asset/jadi/171D.png",
+            "e":"asset/jadi/171E.png"
+        },
+        "12": {
+            "a":"Sindoro",
+            "b":"Dieng",
+            "c":"Kelud",
+            "d":"Merapi",
+            "e":"Merbabu"
+        },
+        "13": {
+            "a":"asset/jadi/173A.png",
+            "b":"asset/jadi/173B.png",
+            "c":"asset/jadi/173C.png",
+            "d":"asset/jadi/173D.png",
+            "e":"asset/jadi/173E.png"
+        },
+        "14": {
+            "a":"85",
+            "b":"40",
+            "c":"51",
+            "d":"72",
+            "e":"93"
+        },
+        "15": {
+            "a":"mutlak",
+            "b":"layak",
+            "c":"maya",
+            "d":"stabil",
+            "e":"abstrak"
+        },
+        "16": {
+            "a":"28",
+            "b":"51",
+            "c":"43",
+            "d":"23",
+            "e":"35"
+        },
+        "17": {
+            "a":"11",
+            "b":"2",
+            "c":"9",
+            "d":"14",
+            "e":"6"
+        },
+        "18": {
+            "a":"asset/jadi/178A.png",
+            "b":"asset/jadi/178B.png",
+            "c":"asset/jadi/178C.png",
+            "d":"asset/jadi/178D.png",
+            "e":"asset/jadi/178E.png"
+        },
+        "19": {
+            "a":"5/241",
+            "b":"5/242",
+            "c":"5/243",
+            "d":"5/244",
+            "e":"5/245"
+        },
+        "20": {
+            "a":"18",
+            "b":"21",
+            "c":"2",
+            "d":"27",
+            "e":"33"
+        },
+        "21": {
+            "a":"lucu-derita",
+            "b":"senang-menangis",
+            "c":"emosi-perasaan",
+            "d":"puas-kecewa",
+            "e":"gembira-kesal"
+        },
+        "22": {
+            "a":"asset/jadi/182A.png",
+            "b":"asset/jadi/182B.png",
+            "c":"asset/jadi/182C.png",
+            "d":"asset/jadi/182D.png",
+            "e":"asset/jadi/182E.png"
+        },
+        "23": {
+            "a":"asset/jadi/183A.png",
+            "b":"asset/jadi/183B.png",
+            "c":"asset/jadi/183C.png",
+            "d":"asset/jadi/183D.png",
+            "e":"asset/jadi/183E.png"
+        },
+        "24": {
+            "a":"asset/jadi/184A.png",
+            "b":"asset/jadi/184B.png",
+            "c":"asset/jadi/184C.png",
+            "d":"asset/jadi/184D.png",
+            "e":"asset/jadi/184E.png"
+        },
+        "25": {
+            "a":"14,6",
+            "b":"15,3",
+            "c":"16,7",
+            "d":"17,6",
+            "e":"18,3"
+        },
+        "26": {
+            "a":"serangan",
+            "b":"bertahan",
+            "c":"ofensif",
+            "d":"impulsif",
+            "e":"pasif"
+        },
+        "27": {
+            "a":"asset/jadi/187A.png",
+            "b":"asset/jadi/187B.png",
+            "c":"asset/jadi/187C.png",
+            "d":"asset/jadi/187D.png",
+            "e":"asset/jadi/187E.png"
+        },
+        "28": {
+            "a":"15 3/4",
+            "b":"14 1/2",
+            "c":"12 1/4",
+            "d":"14 3/4",
+            "e":"13 1/2"
+        },
+        "29": {
+            "a":"1C",
+            "b":"3A",
+            "c":"2B",
+            "d":"2C",
+            "e":"3B"
+        },
+        "30": {
+            "a":"-313, 212",
+            "b":"-313, -212",
+            "c":"313, -212",
+            "d":"212, 101",
+            "e":"-212, -101"
+        }
+    },
+    {
+        "1":"asset/jadi/161D.png",
+        "2": "8",
+        "3": "20 orang",
+        "4": "asset/jadi/164B.png",
+        "5": "asset/jadi/165E.png",
+        "6": "asset/jadi/166D.png",
+        "7": "8346-4623",
+        "8": "asset/jadi/168B.png",
+        "9": "195",
+        "10": "gambaran",
+        "11": "asset/jadi/171C.png",
+        "12": "Dieng",
+        "13": "asset/jadi/173E.png",
+        "14": "85",
+        "15": "mutlak",
+        "16": "43",
+        "17": "6",
+        "18": "asset/jadi/1678C.png",
+        "19": "5/242",
+        "20": "18",
+        "21": "senang-menangis",
+        "22": "asset/jadi/182D.png",
+        "23": "asset/jadi/183B.png",
+        "24": "asset/jadi/184D.png",
+        "25": "16,7",
+        "26": "ofensif",
+        "27": "asset/jadi/187E.png",
+        "28": "14 3/4",
+        "29": "2C",
+        "30": "-313, 212"
+    }
+]
